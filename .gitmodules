@@ -7,6 +7,3 @@
 [submodule "battleship_updater"]
 	path = battleship_updater
 	url = git@github.com:duncannevin/battleship_updater.git
-[submodule "battleship_web"]
-	path = battleship_web
-	url = git@github.com:duncannevin/battleship_web.git
