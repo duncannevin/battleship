@@ -6,4 +6,4 @@ start:
 		-f ./battleship_updater/docker-compose.yml \
 		up -d --remove-orphans --build
 stop:
-	docker-compose down
+	docker-compose down --remove-orphans
