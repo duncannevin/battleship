@@ -1,0 +1,12 @@
+[submodule "battleship_game"]
+	path = battleship_game
+	url = git@github.com:duncannevin/battleship_game.git
+[submodule "battleship_auth"]
+	path = battleship_auth
+	url = git@github.com:duncannevin/battleship_auth.git
+[submodule "battleship_updater"]
+	path = battleship_updater
+	url = git@github.com:duncannevin/battleship_updater.git
+[submodule "battleship_web"]
+	path = battleship_web
+	url = git@github.com:duncannevin/battleship_web.git

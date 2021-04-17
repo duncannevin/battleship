@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  reverseproxy:
+    image: reverseproxy
+    build:
+      context: .
+      dockerfile: Dockerfile.reverseproxy
+    ports:
+      - 9999:9999
+    restart: unless-stopped
